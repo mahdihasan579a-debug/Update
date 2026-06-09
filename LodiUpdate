@@ -1,14 +1,10 @@
 {
-  "show": false,
-  "force": false,
-  "version_name": "V1",
-  "version_code": 2,
-  "title": "New Update Available! 🚀",
-  "message": "We've added new features and fixed bugs. Update now for the best experience!",
-  "update_url": "https://t.me/UnknownModzOfficial",
-  "changelog": [
-    "✅ New UI design",
-    "🐛 Update mo tanga",
-    "⚡️ Performance improvements"
-  ]
+  "credit": "MR. NoOB",
+  "show_dialog": true,
+  "title": "🚀 Update Available",
+  "subtitle": "✨ New Version Release ✨",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "btn_update": "Update Now",
+  "btn_exit": "Exit",
+  "link": "https://t.me/EpicModsChannel"
 }
