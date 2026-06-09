@@ -1,6 +1,6 @@
 {
-  "show": true,
-  "force": true,
+  "show": false,
+  "force": false,
   "version_name": "V3",
   "version_code": 2,
   "title": "New Update Available! 🚀",
