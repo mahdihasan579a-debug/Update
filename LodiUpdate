@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": false,
   "force": false,
   "version_name": "2.0.0",
   "version_code": 2,
@@ -8,7 +8,7 @@
   "update_url": "https://t.me/UnknownModzOfficial",
   "changelog": [
     "✅ New UI design",
-    "🐛 Bug fixes",
+    "🐛 Update mo tanga",
     "⚡️ Performance improvements"
   ]
 }
