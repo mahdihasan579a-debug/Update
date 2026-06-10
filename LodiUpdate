@@ -1,9 +1,22 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "title": "UPDATE AVAILABLE",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/dp_mods"
+  "apps": {
+    "nady.app.update": {
+      "show_dialog": true,
+      "force_redirect": true
+    },
+    "Com.ex": {
+      "show_dialog": true,
+      "force_redirect":  false
+    },
+    "com.duygiangdg.magiceraser": {
+      "show_dialog": true,
+      "force_redirect":  true
+    }
+    
+  },
+  "data": {
+    "download_link": "https://t.me/nady",
+    "toast": "UPDATE TO USE",
+    "changelog": "1.New Version With Bug Fixed\n 2. New Features Unlocked\n3.All Device Supported"
+  }
 }
